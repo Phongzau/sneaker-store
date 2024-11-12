@@ -14,7 +14,8 @@
 ## Run the database migrations
 
     php artisan migrate
-
+    Cho file uploads vào trong storage/app/public và dán file uploads vào và chạy
+    php artisan storage:link tại vì trong git đang cấu hình không đẩy file storage
 ## Run Project
 
     npm start
