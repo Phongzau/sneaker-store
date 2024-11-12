@@ -1,0 +1,23 @@
+* Paypal:
+TK: sb-ezuwn33667932@personal.example.com
+MK: R^Pwv/0h
+Nếu phải nhập mã: 111111
+
+* VNpay:
+Ngân hàng	NCB
+Số thẻ:	9704198526191432198
+Tên chủ thẻ:	NGUYEN VAN A
+Ngày phát hành:	07/15
+Mật khẩu OTP:	123456
+
+* Admin:
+TK:phongzau2004@gmail.com
+MK:123456789
+
+* Nhân viên:
+TK:pdang0986@gmail.com
+MK:123456789
+
+* User:
+TK:phongdtph38207@fpt.edu.vn
+MK:123456789
