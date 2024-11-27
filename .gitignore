@@ -5,7 +5,6 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
 .env.backup
 .env.production
 .phpactor.json
@@ -20,4 +19,3 @@ yarn-error.log
 /.vscode
 /.zed
 package-lock.json
-composer.lock
